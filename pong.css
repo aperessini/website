@@ -1,0 +1,20 @@
+.pong_body {
+
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    text-align:center;
+    font-family: Stencil, fantasy;
+}
+
+.pong_header {
+
+    text-decoration: none;
+    color: #66FF66;
+}
+
+.pong_header:hover {
+    text-shadow: 2px 2px white;
+}
